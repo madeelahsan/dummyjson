@@ -1,44 +1,9 @@
 [
   {
-    id: "1",
-    storeName: "Minh Chau",
-    storeAddress: "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    storeContact: "+14032652073",
-    status: "Active",
-  },
-  {
-    id: "2",
-    storeName: "Minh Chau",
-    storeAddress: "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    storeContact: "+14032652073",
-    status: "inactive",
-  },
-  {
-    id: "3",
-    storeName: "Minh Chau",
-    storeAddress: "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    storeContact: "+14032652073",
-    status: "Active",
-  },
-  {
-    id: "4",
-    storeName: "Minh Chau",
-    storeAddress: "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    storeContact: "+14032652073",
-    status: "Active",
-  },
-  {
-    id: "5",
-    storeName: "Minh Chau",
-    storeAddress: "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    storeContact: "+14032652073",
-    status: "Active",
-  },
-  {
-    id: "6",
-    storeName: "Minh Chau",
-    storeAddress: "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    storeContact: "+14032652073",
-    status: "inactive",
-  },
+    "id": 1,
+    "storeName": "Minh Chau",
+    "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+    "storeContact": "+14032652073",
+    "status": "Active",
+  }
 ];
