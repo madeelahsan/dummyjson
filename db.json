@@ -35,5 +35,47 @@
          "storeContact":"+14032652073",
          "status":"Active"
       }
+   ],
+   "campaign":[
+      {
+         "id":"0",
+         "campaignName":"Campaign 1",
+         "impressions":"15000",
+         "clicks":"10000",
+         "conversions":"80%",
+         "status":"Active"
+      },
+      {
+         "id":"1",
+         "campaignName":"Campaign 2",
+         "impressions":"15000",
+         "clicks":"10000",
+         "conversions":"80%",
+         "status":"Active"
+      },
+      {
+         "id":"2",
+         "campaignName":"Campaign 3",
+         "impressions":"15000",
+         "clicks":"10000",
+         "conversions":"80%",
+         "status":"Active"
+      },
+      {
+         "id":"3",
+         "campaignName":"Campaign 4",
+         "impressions":"15000",
+         "clicks":"10000",
+         "conversions":"80%",
+         "status":"Active"
+      },
+      {
+         "id":"4",
+         "campaignName":"Campaign 5",
+         "impressions":"15000",
+         "clicks":"10000",
+         "conversions":"80%",
+         "status":"Active"
+      }
    ]
 }
