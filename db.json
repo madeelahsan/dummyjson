@@ -1,37 +1,39 @@
-[
-  {
-    "id": "0",
-    "storeName": "Minh Chau 1",
-    "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    "storeContact": "+14032652073",
-    "status": "Active"
-  },
-  {
-    "id": "1",
-    "storeName": "Minh Chau 2",
-    "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    "storeContact": "+14032652073",
-    "status": "inactive"
-  },
-  {
-    "id": "2",
-    "storeName": "Minh Chau 3",
-    "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    "storeContact": "+14032652073",
-    "status": "Active"
-  },
-  {
-    "id": "3",
-    "storeName": "Minh Chau 4",
-    "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    "storeContact": "+14032652073",
-    "status": "Active"
-  },
-  {
-    "id": "4",
-    "storeName": "Minh Chau 5",
-    "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-    "storeContact": "+14032652073",
-    "status": "Active"
-  }
-]
+{
+   "stores":[
+      {
+         "id":0,
+         "storeName":"Minh Chau 1",
+         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+         "storeContact":"+14032652073",
+         "status":"Active"
+      },
+      {
+         "id":1,
+         "storeName":"Minh Chau 2",
+         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+         "storeContact":"+14032652073",
+         "status":"inactive"
+      },
+      {
+         "id":2,
+         "storeName":"Minh Chau 3",
+         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+         "storeContact":"+14032652073",
+         "status":"Active"
+      },
+      {
+         "id":3,
+         "storeName":"Minh Chau 4",
+         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+         "storeContact":"+14032652073",
+         "status":"Active"
+      },
+      {
+         "id":4,
+         "storeName":"Minh Chau 5",
+         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+         "storeContact":"+14032652073",
+         "status":"Active"
+      }
+   ]
+}
