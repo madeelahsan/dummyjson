@@ -97,15 +97,23 @@
     },
     {
       "id": 3,
-      "businessName": "KFC",
+      "businessName": "Burger King",
       "category": "Fast Food",
       "email": "mail@kfc.com",
       "address": "15325 Bannister Rd SE, Calgary, AB T2X 1Z3, Canada",
       "contact": "+14032546988"
     },
     {
+      "id": 3,
+      "businessName": "Domino's Pizza",
+      "category": "Fast Food",
+      "email": "mail@mcdonalds.com",
+      "address": "2740 32 Ave NE, Calgary, AB T1Y 2S2, Canada",
+      "contact": "+14032910256"
+    }
+    {
       "id": 4,
-      "businessName": "Mcdonald's",
+      "businessName": "Domino's Pizza",
       "category": "Fast Food",
       "email": "mail@mcdonalds.com",
       "address": "2740 32 Ave NE, Calgary, AB T1Y 2S2, Canada",
