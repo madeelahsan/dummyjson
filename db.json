@@ -1,81 +1,115 @@
 {
-   "stores":[
-      {
-         "id":0,
-         "storeName":"Minh Chau 1",
-         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-         "storeContact":"+14032652073",
-         "status":"Active"
-      },
-      {
-         "id":1,
-         "storeName":"Minh Chau 2",
-         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-         "storeContact":"+14032652073",
-         "status":"inactive"
-      },
-      {
-         "id":2,
-         "storeName":"Minh Chau 3",
-         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-         "storeContact":"+14032652073",
-         "status":"Active"
-      },
-      {
-         "id":3,
-         "storeName":"Minh Chau 4",
-         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-         "storeContact":"+14032652073",
-         "status":"Active"
-      },
-      {
-         "id":4,
-         "storeName":"Minh Chau 5",
-         "storeAddress":"1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
-         "storeContact":"+14032652073",
-         "status":"Active"
-      }
-   ],
-   "campaign":[
-      {
-         "id":"0",
-         "campaignName":"Campaign 1",
-         "impressions":"15000",
-         "clicks":"10000",
-         "conversions":"80%",
-         "status":"Active"
-      },
-      {
-         "id":"1",
-         "campaignName":"Campaign 2",
-         "impressions":"15000",
-         "clicks":"10000",
-         "conversions":"80%",
-         "status":"Active"
-      },
-      {
-         "id":"2",
-         "campaignName":"Campaign 3",
-         "impressions":"15000",
-         "clicks":"10000",
-         "conversions":"80%",
-         "status":"Active"
-      },
-      {
-         "id":"3",
-         "campaignName":"Campaign 4",
-         "impressions":"15000",
-         "clicks":"10000",
-         "conversions":"80%",
-         "status":"Active"
-      },
-      {
-         "id":"4",
-         "campaignName":"Campaign 5",
-         "impressions":"15000",
-         "clicks":"10000",
-         "conversions":"80%",
-         "status":"Active"
-      }
-   ]
+  "stores": [
+    {
+      "id": 0,
+      "storeName": "Minh Chau 1",
+      "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+      "storeContact": "+14032652073",
+      "status": "Active"
+    },
+    {
+      "id": 1,
+      "storeName": "Minh Chau 2",
+      "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+      "storeContact": "+14032652073",
+      "status": "inactive"
+    },
+    {
+      "id": 2,
+      "storeName": "Minh Chau 3",
+      "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+      "storeContact": "+14032652073",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "storeName": "Minh Chau 4",
+      "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+      "storeContact": "+14032652073",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "storeName": "Minh Chau 5",
+      "storeAddress": "1318 9 Ave SE, Calgary, AB T2G 0T3, Canada",
+      "storeContact": "+14032652073",
+      "status": "Active"
+    }
+  ],
+  "campaign": [
+    {
+      "id": 0,
+      "campaignName": "Campaign 1",
+      "impressions": "15000",
+      "clicks": "10000",
+      "conversions": "80%",
+      "status": "Active"
+    },
+    {
+      "id": 1,
+      "campaignName": "Campaign 2",
+      "impressions": "15000",
+      "clicks": "10000",
+      "conversions": "80%",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "campaignName": "Campaign 3",
+      "impressions": "15000",
+      "clicks": "10000",
+      "conversions": "80%",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "campaignName": "Campaign 4",
+      "impressions": "15000",
+      "clicks": "10000",
+      "conversions": "80%",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "campaignName": "Campaign 5",
+      "impressions": "15000",
+      "clicks": "10000",
+      "conversions": "80%",
+      "status": "Active"
+    }
+  ],
+  "business": [
+    {
+      "id": 0,
+      "businessName": "KFC",
+      "category": "Fast Food",
+      "email": "mail@kfc.com",
+      "address": "15325 Bannister Rd SE, Calgary, AB T2X 1Z3, Canada",
+      "contact": "+14032546988"
+    },
+    {
+      "id": 1,
+      "businessName": "Mcdonald's",
+      "category": "Fast Food",
+      "email": "mail@mcdonalds.com",
+      "address": "2740 32 Ave NE, Calgary, AB T1Y 2S2, Canada",
+      "contact": "+14032910256"
+    },
+    {
+      "id": 3,
+      "businessName": "KFC",
+      "category": "Fast Food",
+      "email": "mail@kfc.com",
+      "address": "15325 Bannister Rd SE, Calgary, AB T2X 1Z3, Canada",
+      "contact": "+14032546988"
+    },
+    {
+      "id": 4,
+      "businessName": "Mcdonald's",
+      "category": "Fast Food",
+      "email": "mail@mcdonalds.com",
+      "address": "2740 32 Ave NE, Calgary, AB T1Y 2S2, Canada",
+      "contact": "+14032910256"
+    }
+  ]
 }
